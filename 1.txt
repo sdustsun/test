@@ -1,0 +1,1 @@
+git的使用越来越广泛使用命令比较麻烦,下面讲解一下tortoisegit的使用先下载安装git(msysgit)和tortoisegit,安装后提示重启电脑,不解释1.找一个文件夹做仓库这里用
